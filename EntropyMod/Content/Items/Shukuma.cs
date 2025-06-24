@@ -11,8 +11,8 @@ namespace EntropyMod.Content.Items
         {
             Item.damage = 35;
             Item.DamageType = DamageClass.Melee;
-            Item.width = 30;
-            Item.height = 28;
+            Item.width = 56;
+            Item.height = 61;
             Item.useTime = 20;
             Item.useAnimation = 20;
             Item.useStyle = ItemUseStyleID.Swing;

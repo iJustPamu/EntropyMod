@@ -1,0 +1,48 @@
+Items: {
+	EntropyScrap: {
+		DisplayName: Entropy Scrap
+		Tooltip: Un raro y misterioso material extraido de criaturas abominables.
+	}
+
+	Kar98: {
+		DisplayName: Kar98
+		Tooltip:
+			'''
+			Clasico y confiable.
+			No se recomienda su uso con agrupaciones grandes de muertos vivientes.
+			'''
+	}
+
+	SolarisRing: {
+		DisplayName: Solaris Ring
+		Tooltip:
+			'''
+			Aumenta la probabilidad de critico y velocidad de ataques cuerpo a cuerpo en un 10%.
+			[c/FF0000:Perfecto si buscas hacer una run masoquista.]
+			'''
+	}
+
+	SMG: {
+		DisplayName: SMG
+		Tooltip:
+			'''
+			Recuerda siempre tener mas de un stack de balas en tu inventario.
+			Nunca sabes cuando vas a necesitar mas
+			'''
+	}
+
+	HunterStatueItem: {
+		Tooltip: ""
+		DisplayName: Hunter Statue Item
+	}
+
+	LMG7: {
+		Tooltip: ""
+		DisplayName: L M G7
+	}
+
+	Obliterator: {
+		DisplayName: Obliterator
+		Tooltip: ""
+	}
+}
